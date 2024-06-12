@@ -24,22 +24,22 @@ header {
 
 main {
 
-    color: white;
+    color: #10D9D3;
     border: 2px solid white;
     border-radius: 10px;
     margin: auto;
     margin-top: 25px;
     width: 90vw;
-    height: 800px;
+    height: auto;
 
 }
 
-.AlImg img {
-    float: left;
+.AlImg{
+    
     margin-top: 50px;
     margin-left: 150px;
     align-items: center;
-
+    justify-content: center;
 }
 
 
@@ -102,4 +102,16 @@ p {
     color: white;
     font-size: 14pt;
     text-align: justify;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+h2{
+    margin-left: 30px;
+}img{
+    margin-left: 40px;
+
+}body{
+    
+background-color: ;
+
 }
